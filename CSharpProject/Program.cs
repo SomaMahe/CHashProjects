@@ -34,7 +34,7 @@ namespace CSharpProject
                 word2[i] = Console.ReadLine();
 
             }
-
+            Console.WriteLine("Concatenated word");
             foreach (String word in word2)
             {
 
